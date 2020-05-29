@@ -10,6 +10,7 @@ def mainmenu():
     <html>
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
+    <div>Updated by using CodeDeploy and CodePipeline</div>
     </body>
     </html>"""
 
